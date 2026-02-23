@@ -8,4 +8,4 @@ This project implements the Tile class for a Minesweeper game.
 - Includes full stress testing in TileTester
 
 ## Author
-Jerry Zhang
+Jerry(Hongyi) Zhang
